@@ -262,7 +262,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output  :
  ![output](https://github.com/jhansi21005096/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/blob/main/iot-1.png)
- ![output]()
+ ![output](https://github.com/jhansi21005096/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/blob/main/iot2.png)
  
  
 ## Result :
